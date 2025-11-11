@@ -1,7 +1,5 @@
 # Mikefolio
 
-# Mikefolio
-
 This is my personal portfolio website hosted on GitHub Pages.  
 You can view it live here: https://picansomichael.github.io/mikefolio
 
