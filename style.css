@@ -72,3 +72,8 @@ footer {
   font-size: 0.9em;
   color: #777;
 }
+
+  img {
+      max-width: 100%; /* Image will not exceed the width of its parent container */
+      height: auto;    /* Maintain aspect ratio */
+}
