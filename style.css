@@ -37,6 +37,11 @@ header nav ul li a {
   text-decoration: none;
 }
 
+header img {
+  width: 150px;
+  height: auto;
+}
+
 /* Main section */
 main {
   margin: 20px auto;
